@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Jag ska festa
 
-You can use the [editor on GitHub](https://github.com/johanhm/kr-ftskiva/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[*Melodi: Bamse*](https://open.spotify.com/track/24ybyzjMiQopqX0t3mB4yG?si=ca0bfe38d87d4f2b)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jag ska festa,
+ta det lungt med spriten,
+ha det roligt utan att va full.
+Inte krypa runt med festeliten,
+ta det sansat för min egen skull.
 
-### Markdown
+Först en öl i torra strupen,
+efter det så kommer supen
+i med vinet, i med punchen,
+sen en groggbuffé.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jag är skit full, däckar först av alla,
+missar phesten men vad gör väl de´?
+Blandar hejdlöst öl med gammal filmjölk.
+kastar mat på alla som är med.
 
-```markdown
-Syntax highlighted code block
+SKÅL!
 
-# Header 1
-## Header 2
-### Header 3
+# Till Spritbolaget
 
-- Bulleted
-- List
+[*Melodi: Du kära lille snickerbo*](https://open.spotify.com/track/4ITwqqLn7T7eC2FqnpnUS8?si=395220d4109f4163)
 
-1. Numbered
-2. List
+Till spritbolaget ränner jag
+Och bankar på dess port.
+Jag vill ha nåt’ som bränner bra
+Och gör mig sketfull fort.
+Expediten fråga och sa:
+Hur gammal kan min herre va?
+Har du nåt legg  ditt fula drägg
+Kom hit igen när du fått skägg.
 
-**Bold** and _Italic_ and `Code` text
+Nej, detta var ju inte bra,
+Jag ska bli full i kväll.
+Då kom jag på en bra idé,
+Dom har ju sprit på Shell.
+Många flaskor stod där på rad.
+Hurra, nu kan jag bli full och glad.
+Den röda drycken rann ju ner.
+Nu kan jag inte se nåt mer.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Helan går
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johanhm/kr-ftskiva/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[*Melodi: Helan går*](https://open.spotify.com/track/1PX4RwuBigsnAi62a4Lt59?si=afc91d8437144d17)
 
-### Support or Contact
+Helan går, sjung hopp faderallanlej
+Helan går, sjung hopp faderallanlej
+Och den som inte helan tar
+han heller inte halvan får
+Helan går, sjung hopp faderallanlej
+ 
+SKÅL!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Tänk om jag hade lilla nubben
+
+[*Melodi exempel*](https://open.spotify.com/track/1xfzCvyA6Oix8Zgf73a94g?si=c97b908fba9d4cd3)
+
+Tänk om jag hade lilla nubben på ett snöre i halsen.
+Tänk om jag hade lilla nubben på ett snöre i halsen.
+Jag skulle dra den upp och ner,
+så att den kändes som många fler.
+Tänk om jag hade lilla nubben på ett snöre i halsen.
+
+# Vi äro små humlor
+
+[*Melodi: Karl Alfred Boy*](https://open.spotify.com/track/1L8HRIIuaMoI6C5tJpNWxf?si=91d12ef7699d412f)
+
+Vi äro små humlor vi, bzz, bzz.
+Vi äro små humlor vi, bzz, bzz.
+Vi äro små humlor som tar oss en geting.
+Vi äro små humlor vi, bzz, bzz.
+
+Vi äro små fiskar vi, blupp, blupp.
+Vi äro små fiskar vi, blupp, blupp.
+Vi äro små fiskar som fått oss en kallsup.
+Vi äro små fiskar vi, blupp, blupp.
+
+Vi äro små änglar vi, flax-flax.
+Vi äro små änglar vi, flax-flax.
+Vi äro små änglar som tar oss en djävel.
+Vi äro små änglar vi, flax-flax.
+
+SKÅL!
