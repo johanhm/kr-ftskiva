@@ -1,4 +1,12 @@
-# Jag ska festa
+# Kräftskivan
+
+## Spotify list
+
+[Here we go](https://open.spotify.com/playlist/6v2fIbCgNcoZQSZKbQuVTf?si=b1af4682172649cb)
+
+# Visor
+
+## Jag ska festa
 
 [*Melodi: Bamse*](https://open.spotify.com/track/24ybyzjMiQopqX0t3mB4yG?si=ca0bfe38d87d4f2b)
 
@@ -20,7 +28,7 @@ kastar mat på alla som är med.
 
 SKÅL!
 
-# Till Spritbolaget
+## Till Spritbolaget
 
 [*Melodi: Du kära lille snickerbo*](https://open.spotify.com/track/4ITwqqLn7T7eC2FqnpnUS8?si=395220d4109f4163)
 
@@ -44,7 +52,7 @@ Nu kan jag inte se nåt mer.
 
 
 
-# Helan går
+## Helan går
 
 [*Melodi: Helan går*](https://open.spotify.com/track/1PX4RwuBigsnAi62a4Lt59?si=afc91d8437144d17)
 
@@ -56,7 +64,7 @@ Helan går, sjung hopp faderallanlej
  
 SKÅL!
 
-# Tänk om jag hade lilla nubben
+## Tänk om jag hade lilla nubben
 
 [*Melodi exempel*](https://open.spotify.com/track/1xfzCvyA6Oix8Zgf73a94g?si=c97b908fba9d4cd3)
 
@@ -66,7 +74,7 @@ Jag skulle dra den upp och ner,
 så att den kändes som många fler.
 Tänk om jag hade lilla nubben på ett snöre i halsen.
 
-# Vi äro små humlor
+## Vi äro små humlor
 
 [*Melodi: Karl Alfred Boy*](https://open.spotify.com/track/1L8HRIIuaMoI6C5tJpNWxf?si=91d12ef7699d412f)
 
