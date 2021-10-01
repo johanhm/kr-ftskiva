@@ -1,4 +1,4 @@
-# Kräftskivan
+# Räkskivan
 
 ## Spotify list
 
