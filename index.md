@@ -1,5 +1,7 @@
 # Räkskivan
 
+![logo](./img/raka.jpg)
+
 ## Spotify list
 
 [Here we go](https://open.spotify.com/playlist/6v2fIbCgNcoZQSZKbQuVTf?si=b1af4682172649cb)
